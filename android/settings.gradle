@@ -1,0 +1,3 @@
+rootProject.name = 'mow_5060'
+
+include ':app'
